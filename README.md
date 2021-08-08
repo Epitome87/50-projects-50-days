@@ -9,4 +9,6 @@ a panel, it slowly expands and presents the full image.
 ###### `Originally Completed: 8/7/2021`
 
 ### Day 2: Progress Steps
-###### `Coming tomorrow!`
+
+A basic progress bar that adjusts to whichever "Step" in a fictitious process the user is on. The user can move onto the next step via a button, as well as return to the previous step -- and the progress bar and other styling adjust accordingly.
+###### `Originally Completed: 8/8/2021`
