@@ -54,7 +54,7 @@ body {
   left: 0;
   transform: translateY(-50%);
   height: 4px;
-  width: 50%; /* Will be 0% later */
+  width: 0%; /* Will be 0% later */
   z-index: -1; /* Set behind the numbers */
   transition: 0.4s ease;
 }
