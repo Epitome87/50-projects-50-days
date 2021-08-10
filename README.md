@@ -21,4 +21,4 @@ A basic progress bar that adjusts to whichever "Step" in a fictitious process th
 
 Demonstrates how to hide a navigation menu until the user clicks an "open" icon. Once clicked, the main content of the webpage rotates, revealing the once-hidden navigation menu.
 
-###### `Originally Completed: 8/8/2021`
+###### `Originally Completed: 8/9/2021`
