@@ -22,3 +22,16 @@ A basic progress bar that adjusts to whichever "Step" in a fictitious process th
 Demonstrates how to hide a navigation menu until the user clicks an "open" icon. Once clicked, the main content of the webpage rotates, revealing the once-hidden navigation menu.
 
 ###### `Originally Completed: 8/9/2021`
+
+### Day 4: Hidden Search Widget
+
+A simple "Search" widget. The user can click on the search icon, at which point an input box slowly stretches out from the icon, allowing them to type in it. They can click
+the icon again to close the input box.
+
+###### `Originally Completed: 8/10/2021`
+
+### Day 5: Blurry Loading
+
+Demonstrates having a background image start blurry and slowly become focused as the webpage loads.
+
+###### `Originally Completed: 8/11/2021`
