@@ -35,3 +35,9 @@ the icon again to close the input box.
 Demonstrates having a background image start blurry and slowly become focused as the webpage loads.
 
 ###### `Originally Completed: 8/11/2021`
+
+### Day 6: Blurry Loading
+
+Simple page where content animates into view upon scrolling the window
+
+###### `Originally Completed: 8/12/2021`
