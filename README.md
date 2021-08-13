@@ -36,8 +36,14 @@ Demonstrates having a background image start blurry and slowly become focused as
 
 ###### `Originally Completed: 8/11/2021`
 
-### Day 6: Blurry Loading
+### Day 6: Scroll Animation
 
 Simple page where content animates into view upon scrolling the window
 
 ###### `Originally Completed: 8/12/2021`
+
+### Day 7: Split Landing Page
+
+A basic split landing page showcasing the Playstation 5 and Xbox Series X consoles. Whichever of the two products has the focus of the mouse will have its contents grow in size, as the other console's shrinks.
+
+###### `Originally Completed: 8/13/2021`
