@@ -47,3 +47,25 @@ Simple page where content animates into view upon scrolling the window
 A basic split landing page showcasing the Playstation 5 and Xbox Series X consoles. Whichever of the two products has the focus of the mouse will have its contents grow in size, as the other console's shrinks.
 
 ###### `Originally Completed: 8/13/2021`
+
+
+
+### Day 8: Form Wave Animation
+
+A nice little animation effect occurs on a form's input labels when the user clicks the input field.
+
+###### `Originally Completed: 8/14/2021`
+
+
+### Day 9: Sound Board
+
+User can click on various buttons and have that button's corresponding audio play. Simple test of using the HTML audio tag.
+
+###### `Originally Completed: 8/15/2021`
+
+
+### Day 10: Dad Jokes
+
+Using a fetch request to "canihazdadjokes" API, the user can click a button and be presented with a random -- and amazing -- dad joke!
+
+###### `Originally Completed: 8/16/2021`
