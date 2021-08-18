@@ -69,3 +69,15 @@ User can click on various buttons and have that button's corresponding audio pla
 Using a fetch request to "canihazdadjokes" API, the user can click a button and be presented with a random -- and amazing -- dad joke!
 
 ###### `Originally Completed: 8/16/2021`
+
+### Day 11: Event KeyCodes
+
+Simple page where a user can type a character and see the Key and KeyCode that correspond to that character.
+
+###### `Originally Completed: 8/17/2021`
+
+### Day 12: FAQ Collapse
+
+An FAQ section to a website, where each question can be collapsed and expanded to reveal its contents.
+
+###### `Originally Completed: 8/18/2021`
