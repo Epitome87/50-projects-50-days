@@ -48,21 +48,17 @@ A basic split landing page showcasing the Playstation 5 and Xbox Series X consol
 
 ###### `Originally Completed: 8/13/2021`
 
-
-
 ### Day 8: Form Wave Animation
 
 A nice little animation effect occurs on a form's input labels when the user clicks the input field.
 
 ###### `Originally Completed: 8/14/2021`
 
-
 ### Day 9: Sound Board
 
 User can click on various buttons and have that button's corresponding audio play. Simple test of using the HTML audio tag.
 
 ###### `Originally Completed: 8/15/2021`
-
 
 ### Day 10: Dad Jokes
 
@@ -81,3 +77,9 @@ Simple page where a user can type a character and see the Key and KeyCode that c
 An FAQ section to a website, where each question can be collapsed and expanded to reveal its contents.
 
 ###### `Originally Completed: 8/18/2021`
+
+### Day 13: Random Choice Picker
+
+Enter in a collection of "choices" and have the webpage randomly select one for you!
+
+###### `Originally Completed: 8/19/2021`
