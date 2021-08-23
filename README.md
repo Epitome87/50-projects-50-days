@@ -83,3 +83,21 @@ An FAQ section to a website, where each question can be collapsed and expanded t
 Enter in a collection of "choices" and have the webpage randomly select one for you!
 
 ###### `Originally Completed: 8/19/2021`
+
+### Day 14: Animated Navigation
+
+When the user opens or closes the navigation bar, the open/close icon and the links inside animate into place.
+
+###### `Originally Completed: 8/20/2021`
+
+### Day 15: Increment Counter
+
+Displays fake counters for various social media statistics (like Subscribers).
+
+###### `Originally Completed: 8/21/2021`
+
+### Day 15: Increment Counter
+
+Keep track of your water-drinking! Select how much water you've consumed throughout a day and see a visual representation of how close you are to your daily goal.
+
+###### `Originally Completed: 8/22/2021`
