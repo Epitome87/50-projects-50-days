@@ -96,8 +96,26 @@ Displays fake counters for various social media statistics (like Subscribers).
 
 ###### `Originally Completed: 8/21/2021`
 
-### Day 15: Increment Counter
+### Day 16: Drink Water
 
 Keep track of your water-drinking! Select how much water you've consumed throughout a day and see a visual representation of how close you are to your daily goal.
 
 ###### `Originally Completed: 8/22/2021`
+
+### Day 17: Movie App
+
+Using a movie API, this webpage displays a list of movies based on the user's Search input. Each movie has its cover art, rating, and description available for viewing.
+
+###### `Originally Completed: 8/23/2021`
+
+### Day 18: Background Slider
+
+Click left and right arrows to scroll through a series of images. The image currently being viewed also shows up in the background, creating a cool effect with the image in the foreground. 
+
+###### `Originally Completed: 8/24/2021`
+
+### Day 19: Button Ripple
+
+A ripple animation accompanies a button being clicked. The animation originates from the exact spot on the button that the user clicks on.
+
+###### `Originally Completed: 8/25/2021`
