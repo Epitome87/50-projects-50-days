@@ -110,7 +110,7 @@ Using a movie API, this webpage displays a list of movies based on the user's Se
 
 ### Day 18: Background Slider
 
-Click left and right arrows to scroll through a series of images. The image currently being viewed also shows up in the background, creating a cool effect with the image in the foreground. 
+Click left and right arrows to scroll through a series of images. The image currently being viewed also shows up in the background, creating a cool effect with the image in the foreground.
 
 ###### `Originally Completed: 8/24/2021`
 
@@ -119,3 +119,9 @@ Click left and right arrows to scroll through a series of images. The image curr
 A ripple animation accompanies a button being clicked. The animation originates from the exact spot on the button that the user clicks on.
 
 ###### `Originally Completed: 8/25/2021`
+
+### Day 20: Theme Clock
+
+A clock that updates in real-time with the user's current time. A dark / light mode is also available.
+
+###### `Originally Completed: 8/26/2021`
