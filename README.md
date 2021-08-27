@@ -125,3 +125,9 @@ A ripple animation accompanies a button being clicked. The animation originates 
 A clock that updates in real-time with the user's current time. A dark / light mode is also available.
 
 ###### `Originally Completed: 8/26/2021`
+
+### Day 21: Drag-N-Drop
+
+Simple page that allows the user to drag an image element into an empty box, which it will then be placed inside of.
+
+###### `Originally Completed: 8/27/2021`
