@@ -131,3 +131,9 @@ A clock that updates in real-time with the user's current time. A dark / light m
 Simple page that allows the user to drag an image element into an empty box, which it will then be placed inside of.
 
 ###### `Originally Completed: 8/27/2021`
+
+### Day 22: Drawing App
+
+A drawing app using Canvas! Includes basic functionality for increasing/decreasing brush size, changing color, and clearing the drawing.
+
+###### `Originally Completed: 8/28/2021`
