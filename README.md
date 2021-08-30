@@ -137,3 +137,9 @@ Simple page that allows the user to drag an image element into an empty box, whi
 A drawing app using Canvas! Includes basic functionality for increasing/decreasing brush size, changing color, and clearing the drawing.
 
 ###### `Originally Completed: 8/28/2021`
+
+### Day 23: Kinetic Loader
+
+A spinning loader effect constructed using triangles and keyframes.
+
+###### `Originally Completed: 8/29/2021`
