@@ -143,3 +143,15 @@ A drawing app using Canvas! Includes basic functionality for increasing/decreasi
 A spinning loader effect constructed using triangles and keyframes.
 
 ###### `Originally Completed: 8/29/2021`
+
+### Day 24: Content Placeholder
+
+A neat effect that's rendered onto a user's profile card until the user's actual profile data is fetched and can be displayed on the webpage
+
+###### `Originally Completed: 8/30/2021`
+
+### Day 25: Sticky Navigation Bar
+
+A navigation bar that sticks to the top of the webpage. It also transitions into a different color scheme, and smaller size, after the user scrolls down a set distance.
+
+###### `Originally Completed: 8/31/2021`
