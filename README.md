@@ -2,6 +2,36 @@
 
 Following the guidance of Brad Traversy's Udemy Course, I will complete one project a day for 50 days. Although perhaps not consecutively :)
 
+| Day | Project                                                                                                                          | Demo                                                                                              |
+| :-: | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2001%20-%20Expanding%20Cards)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2001%20-%20Expanding%20Cards/)         |
+| 02  | [Progress Steps](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2002%20-%20Progress%20Steps)                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2002%20-%20Progress%20Steps/)          |
+| 03  | [Rotating Navigation Animation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2003%20-%20Rotating%20Navigation) | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2003%20-%20Rotating%20Navigation)      |
+| 04  | [Hidden Search Widget](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2004%20-%20Hidden%20Search%20Widget)       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2004%20-%20Hidden%20Search%20Widget)   |
+| 05  | [Blurry Loading](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2005%20-%20Blurry%20Loading)                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2005%20-%20Blurry%20Loading)           |
+| 06  | [Scroll Animation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2006%20-%20Scroll%20Animation)                 | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2006%20-%20Scroll%20Animation)         |
+| 07  | [Split Landing Page](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2007%20-%20Split%20Landing%20Page)           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2007%20-%20Split%20Landing%20Page)     |
+| 08  | [Form Wave](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2008%20-%20Form%20Wave%20Animation)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2008%20-%20Form%20Wave%20Animation)    |
+| 09  | [Sound Board](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2009%20-%20Sound%20Board)                           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2009%20-%20Sound%20Board)              |
+| 10  | [Dad Jokes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2010%20-%20Dad%20Jokes)                               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2010%20-%20Dad%20Jokes)                |
+| 11  | [Event Keycodes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2011%20-%20Key%20Events)                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2011%20-%20Key%20Events)               |
+| 12  | [Faq Collapse](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2012%20-%20FAQ%20Collapse)                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2012%20-%20FAQ%20Collapse)             |
+| 13  | [Random Choice Picker](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2013%20-%20Random%20Choice%20Picker)       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2013%20-%20Random%20Choice%20Picker)   |
+| 14  | [Animated Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2014%20-%20Animated%20Navigation)           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2014%20-%20Animated%20Navigation)      |
+| 15  | [Incrementing Counter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2015%20-%20Increment%20Counter)            | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2015%20-%20Increment%20Counter)        |
+| 16  | [Drink Water](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2016%20-%20Drink%20Water)                           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2016%20-%20Drink%20Water)              |
+| 17  | [Movie App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2017%20-%20Movie%20App)                               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2017%20-%20Movie%20App)                |
+| 18  | [Background Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2018%20-%20Background%20Slider)               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2018%20-%20Background%20Slider)        |
+| 19  | [Theme Clock](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2019%20-%20Button%20Ripple)                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2019%20-%20Button%20Ripple)            |
+| 20  | [Button Ripple Effect](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2020%20-%20Theme%20Clock)                  | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2020%20-%20Theme%20Clock)              |
+| 21  | [Drag N Drop](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2021%20-%20Drag%20N%20Drop)                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2021%20-%20Drag%20N%20Drop)            |
+| 22  | [Drawing App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2022%20-%20Drawing%20App)                           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2022%20-%20Drawing%20App)              |
+| 23  | [Kinetic Loader](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2023%20-%20Kinetic%20Loader)                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2023%20-%20Kinetic%20Loader)           |
+| 24  | [Content Placeholder](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2024%20-%20Content%20Placeholder)           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2024%20-%20Content%20Placeholder)      |
+| 25  | [Sticky Navbar](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2025%20-%20Sticky%20Navbar)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2025%20-%20Sticky%20Navbar)            |
+| 26  | [Double Vertical Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2026%20-%20Double%20Vertical%20Slider) |
+| 27  | [Toast Notification](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2027%20-%20Toast%20Notification)             | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2027%20-%20Toast%20Notification)       |
+
 ## Progress So Far
 
 ### Day 1: Expanding Cards
