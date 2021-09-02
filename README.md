@@ -155,3 +155,9 @@ A neat effect that's rendered onto a user's profile card until the user's actual
 A navigation bar that sticks to the top of the webpage. It also transitions into a different color scheme, and smaller size, after the user scrolls down a set distance.
 
 ###### `Originally Completed: 8/31/2021`
+
+### Day 26: Double Vertical Slider
+
+Navigate through description/image pairs by pressing up and down buttons. When the buttons are clicked, the text panel on the left scrolls one direction into view, while its corresponding picture panel on the right scrolls into view from the other direction.
+
+###### `Originally Completed: 9/01/2021`
