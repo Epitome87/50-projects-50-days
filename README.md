@@ -31,6 +31,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 25  | [Sticky Navbar](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2025%20-%20Sticky%20Navbar)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2025%20-%20Sticky%20Navbar)            |
 | 26  | [Double Vertical Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2026%20-%20Double%20Vertical%20Slider) |
 | 27  | [Toast Notification](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2027%20-%20Toast%20Notification)             | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2027%20-%20Toast%20Notification)       |
+| 28  | [Github Profiles](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2028%20-%20Github%20Profiles)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2028%Github%20Profiles)                |
 
 ## Progress So Far
 
