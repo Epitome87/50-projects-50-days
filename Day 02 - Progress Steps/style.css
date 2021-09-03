@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli:ital,wght@0,400;1,700&display=swap');
+
+:root {
+  --line-border-fill: #3498db;
+  --line-border-empty: #e0e0e0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Muli', sans-serif;
+  background-color: #f6f7fb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.progress-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-bottom: 1.875em;
+  max-width: 100%;
+  width: 350px;
+}
+
+/* Faint gray line behind  progress bar */
+.progress-container::before {
+  content: '';
+  background-color: var(--line-border-empty);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  height: 4px;
+  width: 100%; /* Will be 0% later */
+  z-index: -1; /* Set behind the numbers */
+}
+
+/* The progress bar (horizontal line) */
+.progress {
+  background-color: var(--line-border-fill);
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  height: 4px;
+  width: 0%; /* Will be 0% later */
+  z-index: -1; /* Set behind the numbers */
+  transition: 0.4s ease;
+}
+
+.circle {
+  background-color: #fff;
+  color: #999;
+  border-radius: 50%;
+  height: 1.875em;
+  width: 1.875em;
+
+  /* Centering circle around its number */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 3px solid var(--line-border-empty);
+  transition: 0.4s ease;
+}
+
+.circle.active {
+  border-color: var(--line-border-fill);
+}
+
+.btn {
+  background-color: var(--line-border-fill);
+  color: #fff;
+  border: 0;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  padding: 0.5em 1.875em;
+  margin: 0.3125em;
+  font-size: 0.875em;
+}
+
+/* Scaling effect on the  button "active" */
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.btn:disabled {
+  background-color: var(--line-border-empty);
+  cursor: not-allowed;
+}
