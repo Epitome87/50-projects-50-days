@@ -192,3 +192,19 @@ A navigation bar that sticks to the top of the webpage. It also transitions into
 Navigate through description/image pairs by pressing up and down buttons. When the buttons are clicked, the text panel on the left scrolls one direction into view, while its corresponding picture panel on the right scrolls into view from the other direction.
 
 ###### `Originally Completed: 9/01/2021`
+
+### Day 27 - Toast Notification
+
+###### `Originally Completed: 9/02/2021`
+
+Stackable notifications that display for a few moments before disappearing.
+
+### Day 28 - Github Profile
+
+###### `Originally Completed: 9/03/2021`
+
+Using the Github API, users are able to search for a Github user and retrieve their profile information. The information is displayed in a card-like element and shows their name, biography, Followers/Follows, and their last 5 repositories.
+
+### Day 29 - Double Heart Click
+
+###### `Originally Completed: 9/04/2021`
