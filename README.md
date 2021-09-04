@@ -207,4 +207,6 @@ Using the Github API, users are able to search for a Github user and retrieve th
 
 ### Day 29 - Double Heart Click
 
+Double-click on an image to "Heart" it. Doing so will cause a heart icon to animate where the image was clicked, and a counter tracking your "Likes" to increase.
+
 ###### `Originally Completed: 9/04/2021`
