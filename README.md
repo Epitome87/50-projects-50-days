@@ -210,3 +210,9 @@ Using the Github API, users are able to search for a Github user and retrieve th
 Double-click on an image to "Heart" it. Doing so will cause a heart icon to animate where the image was clicked, and a counter tracking your "Likes" to increase.
 
 ###### `Originally Completed: 9/04/2021`
+
+### Day 30 - Auto Typing Effect
+
+Very simple project that showcases text that is looks as if it is being automatically typed onto the page. The user can increase and decrease the speed at which the typing occurs.
+
+###### `Originally Completed: 9/05/2021`
