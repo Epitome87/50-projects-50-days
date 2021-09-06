@@ -216,3 +216,7 @@ Double-click on an image to "Heart" it. Doing so will cause a heart icon to anim
 Very simple project that showcases text that is looks as if it is being automatically typed onto the page. The user can increase and decrease the speed at which the typing occurs.
 
 ###### `Originally Completed: 9/05/2021`
+
+### Day 31 - Password Generator
+
+###### `Originally Completed: 9/06/2021`
