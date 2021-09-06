@@ -32,6 +32,9 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 26  | [Double Vertical Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2026%20-%20Double%20Vertical%20Slider)   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2026%20-%20Double%20Vertical%20Slider) |
 | 27  | [Toast Notification](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2027%20-%20Toast%20Notification)             | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2027%20-%20Toast%20Notification)       |
 | 28  | [Github Profiles](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2028%20-%20Github%20Profiles)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2028%20-%20Github%20Profiles)          |
+| 29  | [Double Click Heart](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2029%20-%20Double%20Click%20Heart)           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2029%20-%20Double%20Click%20Heart)     |
+| 30  | [Typing Effect](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2030%20-%20Typing%20Effect)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2030%20-%20Typing%20Effect)            |
+| 31  | [Password Generator](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2031%20-%20Password%20Generator)             | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2031%20-%20Password%20Generator)       |
 
 ## Progress So Far
 
