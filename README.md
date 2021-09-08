@@ -225,3 +225,10 @@ Very simple project that showcases text that is looks as if it is being automati
 A password generator! Customize the parameters of the password by selecting whether it should include uppercase, lowercase, numbers, or symbols. Also choose the desired number of characters. The password will then be randomly generated. The user can also copy the password to their clipboard by pressing the clipboard icon.
 
 ###### `Originally Completed: 9/06/2021`
+
+
+### Day 32 - Good, Cheap, Fast Checkboxes
+
+A simple, silly project that uses stylized input checkboxes to allow the user to select 3 attributes he wishes his project to be: Good, Cheap, and Fast. However, only two of the inputs are allowed to be toggled "On" at any given time.
+
+###### `Originally Completed: 9/07/2021`
