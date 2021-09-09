@@ -232,3 +232,10 @@ A password generator! Customize the parameters of the password by selecting whet
 A simple, silly project that uses stylized input checkboxes to allow the user to select 3 attributes he wishes his project to be: Good, Cheap, and Fast. However, only two of the inputs are allowed to be toggled "On" at any given time.
 
 ###### `Originally Completed: 9/07/2021`
+
+
+### Day 33 - Notes App
+
+An app that lets the user creates notes! The user can add notes, delete notes, and edit them. The notes are saved to local storage so they can persist upon page refresh. Using a third-party markdown library, notes can even take advantage of markdown for features like bold text, italics, bulleted lists, etc.
+
+###### `Originally Completed: 9/08/2021`
