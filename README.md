@@ -245,3 +245,9 @@ An app that lets the user creates notes! The user can add notes, delete notes, a
 An animated countdown! A timer counts down from 3 using various fun animations, at which point a "GO!" text is presented to the user. A "Replay" button allows the countdown to begin again.
 
 ###### `Originally Completed: 9/09/2021`
+
+### Day 34 - Image Carousel
+
+A standard image carousel. Click the Previous and Next buttons to have the next image transition into view. Or let the page idle and have the carousel handle scrolling through each image on its own every few seconds.
+
+###### `Originally Completed: 9/10/2021`
