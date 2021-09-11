@@ -1,0 +1,31 @@
+const container = document.getElementById('container');
+const colors = ['#e74c3c', '#8e44ad', '#3498db', '#e67e22', '#2ecc71'];
+const NUM_SQUARES = 500;
+const originalColor = '#1d1d1d';
+const originalBoxShadow = '0 0 2px #000';
+
+for (let i = 0; i < NUM_SQUARES; i++) {
+  const square = document.createElement('div');
+  square.classList.add('square');
+
+  square.addEventListener('mouseover', (event) => setColor(square));
+  square.addEventListener('mouseout', (event) => removeColor(square));
+
+  container.appendChild(square);
+}
+
+function setColor(element) {
+  const color = getRandomColor();
+
+  element.style.backgroundColor = color;
+  element.style.boxShadow = `0 0 2px ${color}, 0 0 10px ${color}`;
+}
+
+function removeColor(element) {
+  element.style.backgroundColor = originalColor;
+  element.style.boxShadow = originalBoxShadow;
+}
+
+function getRandomColor() {
+  return colors[Math.floor(Math.random() * colors.length)];
+}
