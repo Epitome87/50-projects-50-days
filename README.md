@@ -246,13 +246,13 @@ An animated countdown! A timer counts down from 3 using various fun animations, 
 
 ###### `Originally Completed: 9/09/2021`
 
-### Day 34 - Image Carousel
+### Day 35 - Image Carousel
 
 A standard image carousel. Click the Previous and Next buttons to have the next image transition into view. Or let the page idle and have the carousel handle scrolling through each image on its own every few seconds.
 
 ###### `Originally Completed: 9/10/2021`
 
-### Day 35 - Hoverboard
+### Day 36 - Hoverboard
 
 Simple but neat looking color effects! A colorful series of squares form a grid that react to the user hovering in and out of them.
 
