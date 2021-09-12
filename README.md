@@ -257,3 +257,9 @@ A standard image carousel. Click the Previous and Next buttons to have the next 
 Simple but neat looking color effects! A colorful series of squares form a grid that react to the user hovering in and out of them.
 
 ###### `Originally Completed: 9/11/2021`
+
+### Day 37 - Pokedex
+
+A Pokedex! Using the fetch API to grab data from pokeapi, the first 150 pokemon are displayed in a nice, clean format. The images are a bit unpleasant, as the old resource for getting Pokemon images seems to have stopped existing.
+
+###### `Originally Completed: 9/12/2021`
