@@ -263,3 +263,9 @@ Simple but neat looking color effects! A colorful series of squares form a grid 
 A Pokedex! Using the fetch API to grab data from pokeapi, the first 150 pokemon are displayed in a nice, clean format. The images are a bit unpleasant, as the old resource for getting Pokemon images seems to have stopped existing.
 
 ###### `Originally Completed: 9/12/2021`
+
+### Day 37 - Mobile Tab Navigation
+
+A mobile phone UI, with tabs on the bottom of the 'phone' that the user can click to browse through various images.
+
+###### `Originally Completed: 9/13/2021`
