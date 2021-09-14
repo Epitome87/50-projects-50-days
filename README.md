@@ -264,7 +264,7 @@ A Pokedex! Using the fetch API to grab data from pokeapi, the first 150 pokemon 
 
 ###### `Originally Completed: 9/12/2021`
 
-### Day 37 - Mobile Tab Navigation
+### Day 38 - Mobile Tab Navigation
 
 A mobile phone UI, with tabs on the bottom of the 'phone' that the user can click to browse through various images.
 
