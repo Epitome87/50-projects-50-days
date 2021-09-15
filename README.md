@@ -281,3 +281,9 @@ A mobile phone UI, with tabs on the bottom of the 'phone' that the user can clic
 An email/password form with a background image. The background image starts out blurry, and slowly becomes more clear as the user enters a password that meets the minimum length requirements.
 
 ###### `Originally Completed: 9/14/2021`
+
+### Day 40 - 3D Background Boxes
+
+A cool image effect created by positioning an image / gif over a series of 3D boxes. This makes the image look like it's scattered across multiple boxes, and once the user presses the button the boxes animate and slide together to show the image in its normal state.
+
+###### `Originally Completed: 9/15/2021`
