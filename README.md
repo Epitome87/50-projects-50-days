@@ -43,6 +43,8 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 37  | [Pokedex](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2037%20-%20Pokedex)                                               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2037%20-%20Pokedex)                                |
 | 38  | [Mobile Tab Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2038%20-%20Mobile%20Tab%20Navigation)               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2038%20-%20Mobile%20Tab%20Navigation)              |
 | 39  | [Password Strength Background](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2039%20-%20Password%20Strength%20Background) | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2039%20-%20Password%20Strength%20Background)       |
+| 40  | [3D Background Boxes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2040%20-%203D%20Background%20Boxes)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2040%20-%203D%20Background%20Boxes)                |
+| 41  | [Verify Account UI](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2041%20-%20Verify%20Account%20UI)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2041%20-%20Verify%20Account%20UI)                  |
 
 ## Progress So Far
 
@@ -287,3 +289,9 @@ An email/password form with a background image. The background image starts out 
 A cool image effect created by positioning an image / gif over a series of 3D boxes. This makes the image look like it's scattered across multiple boxes, and once the user presses the button the boxes animate and slide together to show the image in its normal state.
 
 ###### `Originally Completed: 9/15/2021`
+
+### Day 41 - Verify Account UI
+
+A UI for a typical "Verify Your Account" form. The user must enter a 6-digit code in order to pass verification. Note that this is just the foundations of the UI, and the functionality for sending a unique code to the user's email, and verifying that they type in the correct code, are not present.
+
+###### `Originally Completed: 9/16/2021`
