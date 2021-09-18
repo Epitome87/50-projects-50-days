@@ -45,6 +45,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 39  | [Password Strength Background](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2039%20-%20Password%20Strength%20Background) | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2039%20-%20Password%20Strength%20Background)       |
 | 40  | [3D Background Boxes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2040%20-%203D%20Background%20Boxes)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2040%20-%203D%20Background%20Boxes)                |
 | 41  | [Verify Account UI](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2041%20-%20Verify%20Account%20UI)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2041%20-%20Verify%20Account%20UI)                  |
+| 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%Live%20User%20Filter)                           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%Live%20User%20Filter)                     |
 
 ## Progress So Far
 
@@ -295,3 +296,9 @@ A cool image effect created by positioning an image / gif over a series of 3D bo
 A UI for a typical "Verify Your Account" form. The user must enter a 6-digit code in order to pass verification. Note that this is just the foundations of the UI, and the functionality for sending a unique code to the user's email, and verifying that they type in the correct code, are not present.
 
 ###### `Originally Completed: 9/16/2021`
+
+### Day 42 - Live User Filter
+
+Using the RandomUser API, we generate a list of users. Using the search field, you can search the user list for a specific name or location, and the list will add / remove results appropriately with the search criteria provided.
+
+###### `Originally Completed: 9/17/2021`
