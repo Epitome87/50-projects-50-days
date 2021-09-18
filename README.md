@@ -46,6 +46,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 40  | [3D Background Boxes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2040%20-%203D%20Background%20Boxes)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2040%20-%203D%20Background%20Boxes)                |
 | 41  | [Verify Account UI](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2041%20-%20Verify%20Account%20UI)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2041%20-%20Verify%20Account%20UI)                  |
 | 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%20Live%20User%20Filter/)                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%20Live%20User%20Filter/)                  |
+| 43  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2043%20-%20Feedback%20UI%20Design/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2043%20-%20Feedback%20UI%20Design/)                |
 
 ## Progress So Far
 
@@ -302,3 +303,9 @@ A UI for a typical "Verify Your Account" form. The user must enter a 6-digit cod
 Using the RandomUser API, we generate a list of users. Using the search field, you can search the user list for a specific name or location, and the list will add / remove results appropriately with the search criteria provided.
 
 ###### `Originally Completed: 9/17/2021`
+
+### Day 43 - Feedback UI Design
+
+A simple feedback form with "Unhappy", "Neutral", and "Satisfied" options. The user can select one of the three options, submit their decision, and receive a message thanking them for their rating.
+
+###### `Originally Completed: 9/18/2021`
