@@ -45,7 +45,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 39  | [Password Strength Background](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2039%20-%20Password%20Strength%20Background) | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2039%20-%20Password%20Strength%20Background)       |
 | 40  | [3D Background Boxes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2040%20-%203D%20Background%20Boxes)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2040%20-%203D%20Background%20Boxes)                |
 | 41  | [Verify Account UI](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2041%20-%20Verify%20Account%20UI)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2041%20-%20Verify%20Account%20UI)                  |
-| 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%Live%20User%20Filter)                           | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%Live%20User%20Filter)                     |
+| 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%20Live%20User%20Filter/)                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%20Live%20User%20Filter/)                  |
 
 ## Progress So Far
 
