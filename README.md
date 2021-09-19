@@ -46,7 +46,8 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 40  | [3D Background Boxes](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2040%20-%203D%20Background%20Boxes)                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2040%20-%203D%20Background%20Boxes)                |
 | 41  | [Verify Account UI](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2041%20-%20Verify%20Account%20UI)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2041%20-%20Verify%20Account%20UI)                  |
 | 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%20Live%20User%20Filter/)                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%20Live%20User%20Filter/)                  |
-| 43  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2043%20-%20Feedback%20UI%20Design/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2043%20-%20Feedback%20UI%20Design/)                |
+| 43  | [Feedback UI Design](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2043%20-%20Feedback%20UI%20Design/)                    | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2043%20-%20Feedback%20UI%20Design/)                |
+| 44  | [Custom Range Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2044%20-%20Custom%20Range%20Slider/)                  | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2044%20-%20Custom%20Range%20Slider/)               |
 
 ## Progress So Far
 
@@ -309,3 +310,9 @@ Using the RandomUser API, we generate a list of users. Using the search field, y
 A simple feedback form with "Unhappy", "Neutral", and "Satisfied" options. The user can select one of the three options, submit their decision, and receive a message thanking them for their rating.
 
 ###### `Originally Completed: 9/18/2021`
+
+### Day 44 - Custom Range Slider
+
+As simple as the title: Just a custom range slider! The slider's value (1 to 100) changes appropriately as the user moves the slider left and right. The position of that value is always aligned with the slider's thumb.
+
+###### `Originally Completed: 9/19/2021`
