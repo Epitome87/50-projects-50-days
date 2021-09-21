@@ -48,6 +48,8 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 42  | [Live User Filter](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2042%20-%20Live%20User%20Filter/)                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2042%20-%20Live%20User%20Filter/)                  |
 | 43  | [Feedback UI Design](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2043%20-%20Feedback%20UI%20Design/)                    | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2043%20-%20Feedback%20UI%20Design/)                |
 | 44  | [Custom Range Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2044%20-%20Custom%20Range%20Slider/)                  | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2044%20-%20Custom%20Range%20Slider/)               |
+| 45  | [Netflix Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2045%20-%20Netflix%20Navigation)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2045%20-%20Netflix%20Navigation)                   |
+| 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
 
 ## Progress So Far
 
@@ -322,3 +324,9 @@ As simple as the title: Just a custom range slider! The slider's value (1 to 100
 A Netflix-like animation accompanies the navigation bar being open and closed. This consists of a series of divs, each a different color, transitioning from being visible to not being visible at various transition-delay timings, which gives way to the staggering effect.
 
 ###### `Originally Completed: 9/20/2021`
+
+### Day 46 - Quiz App
+
+A simple UI for a multiple-choice quiz. The user is presented one question at a time and must select an answer before moving on to the next question. When all the questions have been answered, the user sees what they scored. A button is then pressed to start the quiz anew.
+
+###### `Originally Completed: 9/21/2021`
