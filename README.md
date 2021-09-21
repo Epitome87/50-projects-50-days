@@ -316,3 +316,9 @@ A simple feedback form with "Unhappy", "Neutral", and "Satisfied" options. The u
 As simple as the title: Just a custom range slider! The slider's value (1 to 100) changes appropriately as the user moves the slider left and right. The position of that value is always aligned with the slider's thumb.
 
 ###### `Originally Completed: 9/19/2021`
+
+### Day 45 - Netflix Navigation
+
+A Netflix-like animation accompanies the navigation bar being open and closed. This consists of a series of divs, each a different color, transitioning from being visible to not being visible at various transition-delay timings, which gives way to the staggering effect.
+
+###### `Originally Completed: 9/20/2021`
