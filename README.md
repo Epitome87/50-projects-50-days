@@ -50,6 +50,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 44  | [Custom Range Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2044%20-%20Custom%20Range%20Slider/)                  | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2044%20-%20Custom%20Range%20Slider/)               |
 | 45  | [Netflix Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2045%20-%20Netflix%20Navigation)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2045%20-%20Netflix%20Navigation)                   |
 | 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
+| 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Testimonial%20Box%20Switcher/)          |
 
 ## Progress So Far
 
@@ -330,3 +331,9 @@ A Netflix-like animation accompanies the navigation bar being open and closed. T
 A simple UI for a multiple-choice quiz. The user is presented one question at a time and must select an answer before moving on to the next question. When all the questions have been answered, the user sees what they scored. A button is then pressed to start the quiz anew.
 
 ###### `Originally Completed: 9/21/2021`
+
+### Day 46 - Testimonial Box Switcher
+
+A UI for customer testimonial -- each one having the testimonial itself, the customer's name, the customer's role, and their image. After a set period of time (which is shown by an ever-increasing progress bar) the current testimonial is replaced with that of the next customer.
+
+###### `Originally Completed: 9/22/2021`
