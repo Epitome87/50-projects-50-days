@@ -50,7 +50,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 44  | [Custom Range Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2044%20-%20Custom%20Range%20Slider/)                  | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2044%20-%20Custom%20Range%20Slider/)               |
 | 45  | [Netflix Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2045%20-%20Netflix%20Navigation)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2045%20-%20Netflix%20Navigation)                   |
 | 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
-| 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Testimonial%20Box%20Switcher/)          |
+| 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2047%20-%20Testimonial%20Box%20Switcher/)          |
 
 ## Progress So Far
 
