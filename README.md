@@ -51,6 +51,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 45  | [Netflix Navigation](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2045%20-%20Netflix%20Navigation)                       | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2045%20-%20Netflix%20Navigation)                   |
 | 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
 | 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2047%20-%20Testimonial%20Box%20Switcher/)          |
+| 48  | [Random Image Feed](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2048%20-%20Random%20Image%20Feed/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2048%20-%20Random%20Image%20Feed/)                 |
 
 ## Progress So Far
 
@@ -332,8 +333,14 @@ A simple UI for a multiple-choice quiz. The user is presented one question at a 
 
 ###### `Originally Completed: 9/21/2021`
 
-### Day 46 - Testimonial Box Switcher
+### Day 47 - Testimonial Box Switcher
 
 A UI for customer testimonial -- each one having the testimonial itself, the customer's name, the customer's role, and their image. After a set period of time (which is shown by an ever-increasing progress bar) the current testimonial is replaced with that of the next customer.
 
 ###### `Originally Completed: 9/22/2021`
+
+### Day 48 - Random Image Feed
+
+A very simple use of flex-box and flex-wrap that displays 3 rows of random images. The img elements are added dynamically through Javascript.
+
+###### `Originally Completed: 9/23/2021`
