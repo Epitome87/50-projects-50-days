@@ -2,6 +2,12 @@ const form = document.getElementById('form');
 const input = document.getElementById('input');
 const todosList = document.getElementById('todos');
 
+const todos = JSON.parse(localStorage.getItem('todos'));
+
+if (todos) {
+  todos.forEach((todo) => addTodo(todo));
+}
+
 form.addEventListener('submit', (event) => {
   event.preventDefault();
 
@@ -25,18 +31,37 @@ function addTodo(todo) {
     todoElement.innerText = todoText;
 
     // Left-click event
-    todoElement.addEventListener('click', () =>
-      todoElement.classList.toggle('completed')
-    );
+    todoElement.addEventListener('click', () => {
+      todoElement.classList.toggle('completed');
+      updateLocalStorage();
+    });
 
     // Right-click event
     todoElement.addEventListener('contextmenu', (event) => {
       event.preventDefault();
       todoElement.remove();
+      updateLocalStorage();
     });
 
     todosList.appendChild(todoElement);
 
     input.value = '';
+
+    updateLocalStorage();
   }
+}
+
+function updateLocalStorage() {
+  const todosElement = document.querySelectorAll('li');
+
+  const todos = [];
+
+  todosElement.forEach((todoElement) => {
+    todos.push({
+      text: todoElement.innerText,
+      completed: todoElement.classList.contains('completed'),
+    });
+  });
+
+  localStorage.setItem('todos', JSON.stringify(todos));
 }
