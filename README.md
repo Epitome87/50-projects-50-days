@@ -52,7 +52,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
 | 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2047%20-%20Testimonial%20Box%20Switcher/)          |
 | 48  | [Random Image Feed](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2048%20-%20Random%20Image%20Feed/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2048%20-%20Random%20Image%20Feed/)                 |
-| 49  | [Random Image Feed](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Todo%20List/)                                | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Todo%20List/)                           |
+| 49  | [TodoList](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Todo%20List/)                                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Todo%20List/)                           |
 
 ## Progress So Far
 
