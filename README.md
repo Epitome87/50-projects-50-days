@@ -52,7 +52,8 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 46  | [Quiz App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2046%20-%20Quiz%20App/)                                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2046%20-%20Quiz%20App/)                            |
 | 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2047%20-%20Testimonial%20Box%20Switcher/)          |
 | 48  | [Random Image Feed](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2048%20-%20Random%20Image%20Feed/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2048%20-%20Random%20Image%20Feed/)                 |
-| 49  | [TodoList](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Todo%20List/)                                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Todo%20List/)                           |
+| 49  | [Todo List](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Todo%20List/)                                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Todo%20List/)                           |
+| 49  | [Insect Catch Game](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Insect%20Catch%20Game/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Insect%20Catch%20Game/)                 |
 
 ## Progress So Far
 
@@ -351,3 +352,11 @@ A very simple use of flex-box and flex-wrap that displays 3 rows of random image
 With only one day remaining, it's finally here: The Todo List! Nothing too fancy here -- you're able to write Todos, left-click them to mark them as completed (visualized with a strike-thru) and right-click them to mark them as complete. Using LocalStorage, the Todos are able to persist through refreshes and visits.
 
 ###### `Originally Completed: 9/24/2021`
+
+### Day 50 - Insect Catch Game
+
+✨🎉🎈 The final project of the course! 🎈🎉✨
+
+This is a silly game where the user clicks at insects to make them go away. Each successful click of an insect increases the user's score. But it also makes two more insects spawn -- so there is no real way to win!
+
+###### `Originally Completed: 9/25/2021`
