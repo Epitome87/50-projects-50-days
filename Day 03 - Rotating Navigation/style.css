@@ -93,6 +93,17 @@ nav ul li {
   margin: 40px 0;
   transform: translateX(-100%);
   transition: transform 0.4s ease-in;
+
+  /* Additions */
+  cursor: pointer;
+}
+
+/* Additions */
+nav ul li:hover,
+nav ul li:hover i {
+  transition: transform 0.1s ease-in;
+  transform: scale(1.25);
+  color: #ff7979;
 }
 
 nav ul li i {
