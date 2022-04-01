@@ -22,8 +22,8 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 16  | [Drink Water](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2016%20-%20Drink%20Water)                                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2016%20-%20Drink%20Water)                          |
 | 17  | [Movie App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2017%20-%20Movie%20App)                                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2017%20-%20Movie%20App)                            |
 | 18  | [Background Slider](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2018%20-%20Background%20Slider)                         | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2018%20-%20Background%20Slider)                    |
-| 19  | [Theme Clock](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2019%20-%20Button%20Ripple)                                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2019%20-%20Button%20Ripple)                        |
-| 20  | [Button Ripple Effect](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2020%20-%20Theme%20Clock)                            | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2020%20-%20Theme%20Clock)                          |
+| 19  | [Theme Clock](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2019%20-%20Theme%20Clock)                                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2019%20-%20Theme%20Clock/)                         |
+| 20  | [Button Ripple Effect](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2020%20-%20Button%20Ripple)                          | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2020%20-%20Button%20Ripple/)                       |
 | 21  | [Drag N Drop](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2021%20-%20Drag%20N%20Drop)                                   | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2021%20-%20Drag%20N%20Drop)                        |
 | 22  | [Drawing App](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2022%20-%20Drawing%20App)                                     | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2022%20-%20Drawing%20App)                          |
 | 23  | [Kinetic Loader](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2023%20-%20Kinetic%20Loader)                               | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2023%20-%20Kinetic%20Loader)                       |
@@ -53,7 +53,7 @@ Following the guidance of Brad Traversy's Udemy Course, I will complete one proj
 | 47  | [Testimonial Box Switcher](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2047%20-%20Testimonial%20Box%20Switcher/)        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2047%20-%20Testimonial%20Box%20Switcher/)          |
 | 48  | [Random Image Feed](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2048%20-%20Random%20Image%20Feed/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2048%20-%20Random%20Image%20Feed/)                 |
 | 49  | [Todo List](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Todo%20List/)                                        | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Todo%20List/)                           |
-| 49  | [Insect Catch Game](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2049%20-%20Insect%20Catch%20Game/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2049%20-%20Insect%20Catch%20Game/)                 |
+| 50  | [Insect Catch Game](https://github.com/Epitome87/50-projects-50-days/tree/main/Day%2050%20-%20Insect%20Catch%20Game/)                      | [Demo](https://epitome87.github.io/50-projects-50-days/Day%2050%20-%20Insect%20Catch%20Game/)                 |
 
 ## Progress So Far
 
@@ -167,15 +167,15 @@ Click left and right arrows to scroll through a series of images. The image curr
 
 ###### `Originally Completed: 8/24/2021`
 
-### Day 19: Button Ripple
+### Day 19: Theme Clock
 
-A ripple animation accompanies a button being clicked. The animation originates from the exact spot on the button that the user clicks on.
+A clock that updates in real-time with the user's current time. A dark / light mode is also available.
 
 ###### `Originally Completed: 8/25/2021`
 
-### Day 20: Theme Clock
+### Day 20: Button Ripple
 
-A clock that updates in real-time with the user's current time. A dark / light mode is also available.
+A ripple animation accompanies a button being clicked. The animation originates from the exact spot on the button that the user clicks on.
 
 ###### `Originally Completed: 8/26/2021`
 
