@@ -5,7 +5,9 @@
 }
 
 body {
-  background-color: #efedd6;
+  /* background-color: #efedd6; */
+  color: #fff;
+  background-color: rgb(40, 40, 40);
   font-family: 'Roboto', sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,6 +19,10 @@ body {
 
 h1 {
   margin: 10px;
+}
+
+img {
+  max-width: 100%;
 }
 
 .box {
@@ -32,6 +38,7 @@ h1 {
   box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
   transform: translateX(400%);
   transition: transform 0.4s ease;
+  overflow: hidden;
 }
 
 .box:nth-of-type(even) {

@@ -67,14 +67,40 @@ body::before {
   cursor: pointer;
 }
 
+.arrow:hover {
+  color: orange;
+  /* font-size: 35px; */
+}
+
+.arrow:hover i {
+  font-size: 35px;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateX(0);
+  }
+
+  50% {
+    transform: translateX(10px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
 .arrow:focus {
   outline: 0;
 }
 
 .left-arrow {
   left: calc(15vw - 65px);
+  border-right-color: transparent;
 }
 
 .right-arrow {
   right: calc(15vw - 65px);
+  border-left-color: transparent;
 }
