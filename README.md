@@ -1,6 +1,6 @@
-# 50-projects-50-days
+# 50 Projects, 50 Days
 
-Following the guidance of Brad Traversy's Udemy Course, I will complete one project a day for 50 days. Although perhaps not consecutively :)
+Following the guidance of Brad Traversy's Udemy Course, I completed one project a day for 50 days. Throughout this project-based journey, I strengthened my HTML, CSS, and JavaScript skills, and built up a great reference catalog of awesome features and effects! Below you will find a list of each project, as well as a short description of it.
 
 | Day | Project                                                                                                                                    | Demo                                                                                                          |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
